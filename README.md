@@ -2,8 +2,7 @@
 
 ### About My project
 
-I am currently learning Laravel with Laracast tutorials and other online resources. I am building this blog from what I know from learning Laravel.
-I will keep updating and commiting the progress to this repository as I continue to learn more Laravel.
+I am building this blog using my knowledge of Laravel. I will continue to learn Laravel and update and commit my progress to this repository as I go.
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
